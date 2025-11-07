@@ -33,12 +33,10 @@ This is my DataCamp project. Every year, American high school students take the 
 - pandas
 - numpy
 
-```
-pip install pandas numpy
-```
+
 ## 🧑‍🎓 Author
 **Tarequl Islam**  
-Data Science Enthusiast
+Data Science Enthusiast,
 Undergraduate Student in Statistics, SUST, Bangladesh.
 
 ## ☎️ Contact
